@@ -1,5 +1,5 @@
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Initiate Test File ...");
+        System.out.println("Initiate Test File...");
     }
 }
